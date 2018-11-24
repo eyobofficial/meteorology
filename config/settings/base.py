@@ -43,6 +43,7 @@ INSTALLED_APPS += [
 INSTALLED_APPS += [
     'accounts',
     'core',
+    'weather',
 ]
 
 MIDDLEWARE = [
